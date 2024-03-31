@@ -1,3 +1,7 @@
+/*
+  Nơi điều hướng dữ liệu
+*/
+
 const getHomepage = (req, res) => {
   res.send('Hello World vs Hoi Dan IT & Eric! & nodemon')
 }
