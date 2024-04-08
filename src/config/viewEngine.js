@@ -4,6 +4,9 @@
   - Some popular template engines that work with Express are Pug, Mustache, and EJS. The Express application generator uses Jade as its default, but it also supports several others.
 */
 
+
+// cấu hình engine hiển thị và tệp tĩnh cho ứng dụng Express.js.
+
 const path = require('path');
 const express = require('express');
 
